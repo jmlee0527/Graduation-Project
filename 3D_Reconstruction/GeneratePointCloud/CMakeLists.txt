@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0)
+project(GeneratePointCloud)
+find_package(OpenCV REQUIRED)
+find_package(Eigen3 REQUIRED)
+add_executable(main ../src/GeneratePointCloud.cpp main.cpp)
+target_link_libraries(main ${OpenCV_LIBS})
+target_link_libraries(main Eigen3::Eigen)

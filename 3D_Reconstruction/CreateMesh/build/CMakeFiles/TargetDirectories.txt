@@ -1,0 +1,3 @@
+/Users/minkwankim/한양대/졸업프로젝트/3D_Reconstruction/CreateMesh/build/CMakeFiles/mesh.dir
+/Users/minkwankim/한양대/졸업프로젝트/3D_Reconstruction/CreateMesh/build/CMakeFiles/edit_cache.dir
+/Users/minkwankim/한양대/졸업프로젝트/3D_Reconstruction/CreateMesh/build/CMakeFiles/rebuild_cache.dir
